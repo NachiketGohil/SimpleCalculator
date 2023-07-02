@@ -4,4 +4,4 @@
 > Check it out by direct download link: https://github.com/NachiketGohil/SimpleCalculator/raw/master/app-debug.apk
 
 > Take a look:
-![](Screenshot_2020.jpeg)
+![](Screenshot_2020.jpeg  = 250x250)
